@@ -1,0 +1,12 @@
+SPM 
+C:\!_sources\stl2spm\models\
+SPB
+C:\!_sources\stl2spm\models\
+SYS 
+C:\spm\model\stdPS\;c:\SPM\sys\;c:\SPM\sys\контур\
+TAB 
+c:\spm\tab\
+ERR 
+c:\spm\ERR\
+GIN
+c:\spm\gin\
