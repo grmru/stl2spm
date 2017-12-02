@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# some custom files
+stl2spm.exe
+stl2spm.vshost.exe
+stl2spm.exe.config
+stl2spm.vshost.exe.config
+
 # User-specific files
 *.suo
 *.user
